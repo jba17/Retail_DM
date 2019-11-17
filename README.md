@@ -8,3 +8,7 @@ This assignment here is to understand the dataset provided and ensure data inser
 3.Understanding each individual dataset provided and data manipulation and cleansing as required.
 4. Creation of lkp tables,dimensions and facts in the Postgres Database
 
+
+I have added a Jupyter Notebook and a python script to this repo. The Jupyter Notebook has a lot of comments while the python script is the exact same but with just the code.
+
+
